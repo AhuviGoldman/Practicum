@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RxnmnDTgKSTwWEqJo9cLf4jy3FoWTNg4v+hsYQdd3kGwD0wUdqzLtLQxXPob1DdphuxK8TfVz5B90hkOFcIMHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USERI.862ZFB3\\Desktop\\Ahuvi\\Project\\Project.Services\\Project.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USERI.862ZFB3\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\USERI.862ZFB3\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
